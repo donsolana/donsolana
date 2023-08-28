@@ -1,5 +1,5 @@
 - 👋 Heyy, I’m Dolu
-- 👨‍🔬 I am a Data Scientist at an Ecommerce.
+- 👨‍🔬 Behavioural Data Science, ex e-commerce Data Scientist 
 - 🔨 I use Python🐍, Rstats 📈, SQL, R Shiny and whatever is neccesary to add value through data.
 - 👨‍🎓 I’m constantly learning new tools and techniques across the entire data landscape.
 - 💞️ I’m looking to collaborate on any Data Project with a preference for Deep Learning ATM.
